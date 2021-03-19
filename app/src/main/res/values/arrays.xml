@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="zones_names">
+        <item>@string/all_zones</item>
+        <item>المرج</item>
+        <item>عزبة النخل</item>
+        <item>عين شمس</item>
+        <item>المطرية</item>
+        <item>جسر السويس</item>
+        <item>مصر الجديدة</item>
+        <item>العباسية</item>
+    </string-array>
+
+</resources>

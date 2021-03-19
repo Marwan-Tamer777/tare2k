@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_label">tare2ak</string>
+    <string name="app_name">طريقك</string>
+    <string name="loading_screen_message">press anywhere to start</string>
+    <string name="Choose_your_route__activity_title">اختار طريقك</string>
+    <string name="from">من:</string>
+    <string name="to">الي:</string>
+    <string name="only">فقط:</string>
+    <string name="through">عبر:</string>
+    <string name="make_your_route_activity_title">أصنع طريقك</string>
+    <string name="favourited_routes">الطرق المفضلة</string>
+    <string name="location">الموقع:</string>
+    <string name="route">المسار:</string>
+    <string name="show_google_maps">استعرض عبر خرائط جوجل</string>
+    <string name="cost">التكلفة:</string>
+    <string name="near_stops">المواقف القريبة(بنفس المنطقة):</string>
+    <string name="empty_case_message">للأسف لا توجد ميكروباصات تمر عبر هذا المسار.أذا كنت  تعرف نرجو ارسال صورة للموقف مع مسارها و التكلفة (اضغط هنا) </string>
+    <string name="favourited_empty_case">يبدو انك لا تملك اي طرق مفضلة.اضغط علي علامة النجمة لاضافة مسار.</string>
+    <string name="selected_empty_case">لم تختار اي مسار حتي الان اضغط مطولا علي اي مسار لاضافته هنا</string>
+    <string name="info_empty_case">بدو انه لا توجد اي ميكروباصات قريبة من هذا</string>
+    <string name="microbus_route">مسار الميكروباص</string>
+    <string name="microbus_info_activity_title">معلومات عن الميكروباص</string>
+    <string name="title_activity_favourited">المواقف المفضلة</string>
+    <string name="start_from">ستبدأ هنا</string>
+    <string name="end_at">ستنتهي هنا</string>
+    <string name="all_zones">كل المناطق</string>
+    <string name="route_to_microbus">اضغك لاظهار الطريق لهذا الموقف</string>
+    <string name="info_on_open_message">يمكنك هنا أنشاء مسارك واحتساب التكلفة مما سيوفر وقتك.
+يمكنك الضغط مطولا علي اي من المواقف لاضافتها للقائمة الاخري والشغط مطولا علي القائمة لازالتها منها</string>
+    <string name="network_or_gps_error">نرجو التأكد ان الانترنت والGPS مفعلان</string>
+</resources>

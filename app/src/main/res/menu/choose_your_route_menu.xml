@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_make_your_route"
+        android:title="@string/make_your_route_activity_title" />
+    <item
+        android:id="@+id/action_favourited_routes"
+        android:title="@string/favourited_routes" />
+</menu>
